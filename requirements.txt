@@ -1,6 +1,6 @@
 streamlit
 pandas
-pencv-python
+opencv-python
 tensorflow
 PIL
 requests
