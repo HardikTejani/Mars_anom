@@ -1,0 +1,7 @@
+streamlit
+pandas
+pencv-python
+tensorflow
+PIL
+requests
+
