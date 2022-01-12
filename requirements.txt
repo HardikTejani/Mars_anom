@@ -2,6 +2,6 @@ streamlit
 pandas
 opencv-python
 tensorflow
-PIL
+pillow
 requests
 
